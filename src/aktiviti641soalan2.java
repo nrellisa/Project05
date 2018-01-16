@@ -24,10 +24,10 @@ public static void main (String[] args) {
     if (bilpelanggan <=0){
         bonus=0;
         
-    }else if (bilpelanggan <=10){
+    }else if (bilpelanggan <=50){
         bonus=550;
         
-    }else if (bilpelanggan <=50){
+    }else if (bilpelanggan <=80){
         bonus=1400;
         
     }else if (bilpelanggan <=100){
